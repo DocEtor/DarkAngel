@@ -1,0 +1,35 @@
+English:
+  1.Example
+    in every trade day
+    after set price stage
+    then so many many order into your system
+    give a response to interface within 3 seconds
+
+  2.Condition
+    simple: 300K order After the opening of the trade office
+    normal: 1M order After the opening of the trade office
+    hard: 10M order After the opening of the trade office
+    crazy: 1B order After the opening of the trade office
+
+  3.solution
+    if you want to become top 1, you must have ExplosionPoint!
+    (please let your ExplosionPoint in Issue, I will check it one by one. Thanks a lot.)
+    
+    
+中文：
+  1.举例：
+    每个交易日
+    集合竟价之后
+    在开市后将会有大量的订单涌入
+    但是需要在3秒内做出反应
+    
+  2.条件
+    简单： 开市后30W订单
+    正常： 开市后100W订单
+    困难： 开市后1000W订单
+    疯子： 开市后10E订单
+    
+  3.解决方案
+    如果你想成为第一，你必须有爆炸点！
+    （请把你的答案放在Issue里面，我会检查每一个，谢谢。）
+  
